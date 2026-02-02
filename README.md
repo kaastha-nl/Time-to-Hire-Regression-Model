@@ -19,7 +19,9 @@ This insight helps HR teams:
 
 ## Model Performance
 MAE: ~23 days
+
 R²: ~0.54
+
 This means the model predicts hiring duration within ~3 weeks on average.
 
 ## Tech Stack
@@ -27,4 +29,5 @@ Python (pandas, scikit-learn)
 
 ## Regression models
 Feature engineering
+
 PyTest for model validation
